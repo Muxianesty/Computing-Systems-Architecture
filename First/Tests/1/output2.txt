@@ -1,0 +1,11 @@
+Plant container with 10 elements:
+Flower j:VowelInNameProportion=0.00:Garden
+Tree dbwkdqac:VowelInNameProportion=0.12:20 years
+Bush cstkurq:VowelInNameProportion=0.14:August
+Bush gdiyxdfrphz:VowelInNameProportion=0.18:December
+Bush doqthepcjkgnifqevrf:VowelInNameProportion=0.21:May
+Bush lgepbifgal:VowelInNameProportion=0.30:August
+Bush xyngoxvrjnxeaifr:VowelInNameProportion=0.31:February
+Tree winuesdnk:VowelInNameProportion=0.33:17 years
+Flower qqzouwqheyqjsaddu:VowelInNameProportion=0.35:Domestic
+Flower izqiuaq:VowelInNameProportion=0.57:Garden
