@@ -1,0 +1,1 @@
+FirstProject.exe -f ..\..\Tests\2\input1.txt ..\..\Tests\2\output1.txt ..\..\Tests\2\output2.txt
