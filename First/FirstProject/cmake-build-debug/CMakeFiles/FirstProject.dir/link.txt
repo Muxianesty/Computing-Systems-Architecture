@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FirstProject.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\FirstProject.dir/objects.a @CMakeFiles\FirstProject.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\FirstProject.dir/objects.a -Wl,--no-whole-archive -o FirstProject.exe -Wl,--out-implib,libFirstProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FirstProject.dir\linklibs.rsp
