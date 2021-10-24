@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Archive/Second/SecondProject/Plant-entity classes/Bush.h
+Plant.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Plant.h
+stdio.h
+C:/Archive/Second/SecondProject/Plant-entity classes/stdio.h
+
+C:/Archive/Second/SecondProject/Plant-entity classes/Flower.h
+Plant.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Plant.h
+
+C:/Archive/Second/SecondProject/Plant-entity classes/Plant.h
+string.h
+C:/Archive/Second/SecondProject/Plant-entity classes/string.h
+math.h
+C:/Archive/Second/SecondProject/Plant-entity classes/math.h
+ctype.h
+C:/Archive/Second/SecondProject/Plant-entity classes/ctype.h
+stdio.h
+C:/Archive/Second/SecondProject/Plant-entity classes/stdio.h
+stdlib.h
+C:/Archive/Second/SecondProject/Plant-entity classes/stdlib.h
+time.h
+C:/Archive/Second/SecondProject/Plant-entity classes/time.h
+
+C:/Archive/Second/SecondProject/Plant-entity classes/Tree.h
+Plant.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Plant.h
+
+C:/Archive/Second/SecondProject/PlantContainer.h
+Plant-entity classes/Flower.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Flower.h
+Plant-entity classes/Tree.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Tree.h
+Plant-entity classes/Bush.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Bush.h
+Plant-entity classes/Plant.h
+C:/Archive/Second/SecondProject/Plant-entity classes/Plant.h
+
+C:/Archive/Second/SecondProject/main.cpp
+stdio.h
+C:/Archive/Second/SecondProject/stdio.h
+string.h
+C:/Archive/Second/SecondProject/string.h
+PlantContainer.h
+C:/Archive/Second/SecondProject/PlantContainer.h
+

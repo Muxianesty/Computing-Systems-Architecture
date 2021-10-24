@@ -1,0 +1,1 @@
+SecondProject.exe -r 6 ..\..\Tests\1\output1.txt ..\..\Tests\1\output2.txt

@@ -1,0 +1,7 @@
+Plant container with 6 elements:
+Flower omqzsjz:VowelInNameProportion=0.14:Wild
+Tree twdselwuqo:VowelInNameProportion=0.30:1 years
+Flower tvdfya:VowelInNameProportion=0.33:Domestic
+Bush jzuap:VowelInNameProportion=0.40:September
+Bush aooisxpamceklayqdm:VowelInNameProportion=0.44:January
+Flower suwvao:VowelInNameProportion=0.50:Wild
