@@ -1,0 +1,7 @@
+1
+1 checkerkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk 2
+
+// This test shows how incorrect data is handled: incorrect integer describing
+// a type of a plant and other integer values are transformed into a
+// specific integer using module division. Only the first 20 characters from the input
+// are put into a field resembling plant name.

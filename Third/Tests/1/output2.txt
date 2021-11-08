@@ -1,0 +1,7 @@
+Plant container with 6 elements:
+Tree fbp: VowelInNameProportion =  0.00: 14 years old
+Flower vmdcfdeefcprcchw: VowelInNameProportion =  0.12: Wild
+Tree xppplggscpucbokfyp: VowelInNameProportion =  0.17: 51 years old
+Bush opxwcizkbq: VowelInNameProportion =  0.20: August
+Flower qnwcpyjrjtpahmpeekap: VowelInNameProportion =  0.25: Garden
+Flower rjutfkgassyywxqp: VowelInNameProportion =  0.25: Garden

@@ -1,0 +1,6 @@
+Plant container with 5 elements:
+Bush ae: VowelInNameProportion =  1.00: March
+Flower test: VowelInNameProportion =  0.25: Domestic
+Tree aaaaaaaaaa: VowelInNameProportion =  1.00: 200 years old
+Flower abcdefg: VowelInNameProportion =  0.29: Wild
+Bush tre: VowelInNameProportion =  0.33: January

@@ -1,0 +1,1 @@
+main.py -r 10000 ..\Tests\5\output1.txt ..\Tests\5\output2.txt

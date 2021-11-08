@@ -1,0 +1,1 @@
+main.py -f ..\Tests\3\input1.txt ..\Tests\3\output1.txt ..\Tests\3\output2.txt
