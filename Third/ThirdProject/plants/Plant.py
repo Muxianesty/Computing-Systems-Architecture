@@ -32,12 +32,12 @@ class Plant(object):
 
         :param params: A list of params passed in case of file-input.
         """
-        if not is_random and params.__len__() < 2:
-            self = 0
-            return
         if is_random:
             self.name_ = randomName(random.randint(1, 20))
         else:
+            if params.__len__() < 2:
+                self = 0
+                return
             if params[1].__len__() > 20:
                 params[1] = params[1][:20]
             self.name_ = params[1]
