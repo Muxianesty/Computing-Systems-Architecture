@@ -27,9 +27,9 @@ if __name__ == '__main__':
     # with the specified name exists, thus we need to add additional checking for a situation
     # of random-generated values (when the second param is not a file-path).
     try:
-        first_input = 0
         first_input = open(sys.argv[2], "r")
     except FileNotFoundError:
+        first_input = 0
         if sys.argv[1] == "-f":
             print(f"No file {sys.argv[2]} was found")
             sys.exit()
