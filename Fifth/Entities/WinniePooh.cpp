@@ -32,6 +32,10 @@ void WinniePooh::routine(WinniePooh *winnie_ptr) {
         winnie_ptr->hive_ptr_->output_mutex_->unlock();
         ++(winnie_ptr->hive_ptr_->operations_count_);
         winnie_ptr->hive_ptr_->operator++((-1) * winnie_ptr->hive_ptr_->honey_amount_);
+    } else {
+        winnie_ptr->hive_ptr_->output_mutex_->lock();
+        std::cout << "Winnie didn't get to steal the honey in time and went to sleep" << std::endl;
+        winnie_ptr->hive_ptr_->output_mutex_->unlock();
     }
     delete buf;
 }

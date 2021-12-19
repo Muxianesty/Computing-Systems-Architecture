@@ -2,6 +2,7 @@
 #include <thread>
 #include "Hive.h"
 #include <string>
+#include "chrono"
 using std::string;
 using std::cout;
 using std::endl;

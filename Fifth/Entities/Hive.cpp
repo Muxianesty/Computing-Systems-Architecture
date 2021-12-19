@@ -28,6 +28,7 @@ Hive::~Hive() {
     sem_destroy(this->bees_outside_hive_count_);
     delete this->honey_amount_mutex_;
     delete this->bees_outside_hive_count_;
+    delete this->output_mutex_;
     std::cout << "True operation count: " << this->operations_count_;
 }
 

@@ -2,6 +2,8 @@
 #include "Hive.h"
 #include <thread>
 #include "semaphore.h"
+#include "chrono"
+
 class Hive;
 
 class WinniePooh {
